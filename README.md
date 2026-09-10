@@ -16,6 +16,7 @@ My LeetCode SQL and Database problem solving (Easy to Hard)
 | ------- |
 | [0009-palindrome-number](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0069-sqrtx) |
+| [2427-number-of-common-factors](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/2427-number-of-common-factors) |
 ## Binary Search
 |  |
 | ------- |
@@ -24,4 +25,20 @@ My LeetCode SQL and Database problem solving (Easy to Hard)
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0069-sqrtx) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/2427-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/2427-number-of-common-factors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
