@@ -15,4 +15,13 @@ My LeetCode SQL and Database problem solving (Easy to Hard)
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
