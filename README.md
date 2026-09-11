@@ -18,6 +18,7 @@ My LeetCode SQL and Database problem solving (Easy to Hard)
 | [0050-powx-n](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0069-sqrtx) |
 | [2427-number-of-common-factors](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/2427-number-of-common-factors) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,6 +35,7 @@ My LeetCode SQL and Database problem solving (Easy to Hard)
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/2427-number-of-common-factors) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Euclidean Algorithm
 |  |
 | ------- |
