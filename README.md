@@ -23,6 +23,7 @@ My LeetCode SQL and Database problem solving (Easy to Hard)
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0278-first-bad-version) |
 ## Newton's Method
 |  |
 | ------- |
@@ -52,4 +53,8 @@ My LeetCode SQL and Database problem solving (Easy to Hard)
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0058-length-of-last-word) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
