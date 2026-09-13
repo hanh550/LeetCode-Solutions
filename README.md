@@ -48,4 +48,8 @@ My LeetCode SQL and Database problem solving (Easy to Hard)
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0050-powx-n) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
