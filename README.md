@@ -59,4 +59,12 @@ My LeetCode SQL and Database problem solving (Easy to Hard)
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0278-first-bad-version) |
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0027-remove-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
