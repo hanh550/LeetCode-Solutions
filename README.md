@@ -19,12 +19,14 @@ My LeetCode SQL and Database problem solving (Easy to Hard)
 | [0009-palindrome-number](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0268-missing-number) |
 | [2427-number-of-common-factors](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0278-first-bad-version) |
 ## Newton's Method
 |  |
@@ -64,6 +66,7 @@ My LeetCode SQL and Database problem solving (Easy to Hard)
 | ------- |
 | [0027-remove-element](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,4 +75,13 @@ My LeetCode SQL and Database problem solving (Easy to Hard)
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0268-missing-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
