@@ -69,6 +69,7 @@ My LeetCode SQL and Database problem solving (Easy to Hard)
 | [0136-single-number](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +88,7 @@ My LeetCode SQL and Database problem solving (Easy to Hard)
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0414-third-maximum-number) |
 ## Dynamic Programming
 |  |
 | ------- |
