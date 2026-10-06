@@ -68,10 +68,12 @@ My LeetCode SQL and Database problem solving (Easy to Hard)
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/hanh550/LeetCode-SQL-Solutions/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
 | ------- |
